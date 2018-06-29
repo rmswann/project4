@@ -1,0 +1,15 @@
+#include<iostream>
+#include<string>
+#include<limits>
+
+
+using namespace std;
+
+
+// Function prototypes for main.cpp
+int mode_menu(void);
+int to_menu(void);
+int from_menu(void);
+void perform_conversion(int program_mode, int from_system, int to_system);
+void clear_screen(void);
+void pause(void);

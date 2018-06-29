@@ -1,0 +1,25 @@
+/*
+  Roman:Sesterii:2.5:grams
+  Greek:Drachma:4.3:grams
+  Indian:Rupee:11.5:grams
+  Hebrew:Shekel:11 grams
+      But ranged from 7 to 17 grams
+
+
+  1 Silver Denarius =~ 10 Grams Silver = 4 Sestertii
+
+  so 1 Sersterii is 0.25 * 1 Silber Denarius = .25 * 10 grams
+
+  So 1 Sestertii = 2.5 grams of silver
+
+
+  Sources:
+
+  https://en.wikipedia.org/wiki/Denarius
+  https://en.wikipedia.org/wiki/Sestertius
+  https://sp88k.home.xs4all.nl/Coin/Traveler/General/Roman%20Money.htm
+  https://en.wikipedia.org/wiki/Shekel
+
+
+
+*/
